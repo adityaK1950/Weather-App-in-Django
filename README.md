@@ -5,11 +5,10 @@ A Django web application for checking real-time weather information by providing
 ## Screenshots 🖼️
 
 ### Home Page 📸
-![Weather App](https://github.com/adityaK1950/Word-Counter-in-Django/assets/156563981/508d977e-474f-45ad-81e8-ab3e5c82ec24)
+![WA 1](https://github.com/adityaK1950/Calculator-in-Python/assets/156563981/be38946e-da33-48f8-b142-63af429cf8cc)
 
 ### Weather App Results 📸
-![WC 2](https://github.com/adityaK1950/Word-Counter-in-Django/assets/156563981/5c8121f6-96a0-4fd7-bf0e-786e2b91cd57)
-
+![WA 2](https://github.com/adityaK1950/Calculator-in-Python/assets/156563981/13a8a62e-590e-4a02-8a5b-1db46323da1a)
 
 # Do This  ⚠️
 ## Create an OpenWeather API ☁️
