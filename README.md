@@ -20,7 +20,7 @@ For detailed step-by-step guidance, refer to the [DoThis file](https://github.co
 To set up the Search Engine API, start by visiting the Search Engine API page. For detailed step-by-step guidance, refer to the [DoThis file](https://github.com/adityaK1950/Weather-App-in-Django/blob/main/DOTHIS.md) in the project repository.
 
 
-# Default City 🏙️
+## Default City 🏙️
 The default city is set to Pune. If you wish to change the default city, navigate to the code and modify the city as per your preference. For detailed step-by-step guidance, refer to the [DoThis file](https://github.com/adityaK1950/Weather-App-in-Django/blob/main/DOTHIS.md) in the project repository. It provides comprehensive instructions and explanations to assist you throughout the process.
 
 
