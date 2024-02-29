@@ -14,14 +14,14 @@ A Django web application for checking real-time weather information by providing
 # Do This  ⚠️
 ## Create an OpenWeather API ☁️
 To run the code, you need to first create an account on OpenWeather API and obtain an API key. This key is essential for accessing real-time weather data in the Weather App. Ensure you include this API key in your Django project configuration to enable the application to fetch accurate and up-to-date weather information.
-For detailed step-by-step guidance, refer to the "DoThis" file in the project repository.
+For detailed step-by-step guidance, refer to the [DoThis file](https://github.com/adityaK1950/Weather-App-in-Django/blob/main/DOTHIS.md) in the project repository.
 
 ## Create Search Engine Account 🔍
-To set up the Search Engine API, start by visiting the Search Engine API page. For detailed step-by-step guidance, refer to the "DoThis" file in the project repository.
+To set up the Search Engine API, start by visiting the Search Engine API page. For detailed step-by-step guidance, refer to the [DoThis file](https://github.com/adityaK1950/Weather-App-in-Django/blob/main/DOTHIS.md) in the project repository.
 
 
 # Default City 🏙️
-The default city is set to Pune. If you wish to change the default city, navigate to the code and modify the city as per your preference. For detailed step-by-step guidance, refer to the "DoThis" file in the project repository. It provides comprehensive instructions and explanations to assist you throughout the process.
+The default city is set to Pune. If you wish to change the default city, navigate to the code and modify the city as per your preference. For detailed step-by-step guidance, refer to the [DoThis file](https://github.com/adityaK1950/Weather-App-in-Django/blob/main/DOTHIS.md) in the project repository. It provides comprehensive instructions and explanations to assist you throughout the process.
 
 
 
