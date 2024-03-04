@@ -11,7 +11,7 @@ def home(request):
     else:
          city = 'pune'  # Change the default city if you want    
     
-    url = f'https://api.openweathermap.org/data/2.5/weather?q={city}&appid=a317bff3eda1f308e1cc0487375b65b3'
+    url = f'https://api.openweathermap.org/data/2.5/weather?q={city}&appid=# Your API id'
     PARAMS = {'units':'metric'}
 
     API_KEY =  '# Paste your open weather api key here'
