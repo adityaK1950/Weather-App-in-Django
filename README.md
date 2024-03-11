@@ -11,7 +11,7 @@ A Django web application for checking real-time weather information by providing
 ![WA 2](https://github.com/adityaK1950/Calculator-in-Python/assets/156563981/13a8a62e-590e-4a02-8a5b-1db46323da1a)
 
 # Do This  ⚠️
-## Create an OpenWeather API ☁️
+## Create an OpenWeather API Account ☁️
 To run the code, you need to first create an account on OpenWeather API and obtain an API key. This key is essential for accessing real-time weather data in the Weather App. Ensure you include this API key in your Django project configuration to enable the application to fetch accurate and up-to-date weather information.
 For detailed step-by-step guidance, refer to the [DoThis file](https://github.com/adityaK1950/Weather-App-in-Django/blob/main/DOTHIS.md) in the project repository.
 
